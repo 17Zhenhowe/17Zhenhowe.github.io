@@ -7,7 +7,7 @@ The site uses Carolina blue (#4B9CD3), deep navy (#13294B), and Georgia typograp
 ## Files
 
 - index.html: page content and styling.
-- assets/zhenhao-liu-portrait.png: the portrait used on the page.
+- assets/zhenhao-liu-portrait.jpg: the portrait used on the page.
 
 Open index.html in a browser to preview it locally. Keep the assets folder beside the HTML file. No build tools or installation are required.
 
